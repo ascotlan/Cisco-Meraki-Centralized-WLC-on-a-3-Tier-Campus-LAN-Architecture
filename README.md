@@ -1,6 +1,6 @@
 # Cisco Meraki Centralized WLC on a 3-Tier Campus LAN Architecture
 
-![image]()
+![image](https://github.com/ascotlan/Cisco-Meraki-Centralized-WLC-on-a-3-Tier-Campus-LAN-Architecture/blob/main/topology.png)
 
 ## Abstract
 
